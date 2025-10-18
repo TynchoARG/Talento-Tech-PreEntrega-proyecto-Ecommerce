@@ -32,22 +32,6 @@ El sitio fue desarrollado utilizando **HTML5** y **CSS3**, aplicando buenas prá
 
 ---
 
-## 🧱 Estructura del proyecto
-
-proyecto-final-ecommerce-martin-zabala/
-│
-├── index.html
-├── css/
-│ └── index.css
-├── media/
-│ └── images/
-│ |──── Logo_Manitos_Transparente.png
-│ ├──── icono_instagram.png
-│ ├──── icono_whatsapp.png
-│ └──── (imágenes de productos)
-
----
-
 ## 📱 Responsive Design
 
 El sitio está optimizado para:
