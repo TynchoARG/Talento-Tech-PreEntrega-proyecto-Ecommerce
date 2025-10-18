@@ -374,6 +374,7 @@ button[type="reset"]:hover {
 
 .copyright-footer h5 {
   font-size: 0.8rem;
+  text-align: center;
   color: #ccc;
 }
 
